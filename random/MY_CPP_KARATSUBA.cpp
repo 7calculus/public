@@ -1,3 +1,5 @@
+//multipling two numbers (painfull) in karatsuba's way.
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
